@@ -15,6 +15,6 @@ public class HelloController {
     @GetMapping("/hello")
     public String sayHello() {
         logger.info("✅ Hello API was called!");
-        return "Hello, Tomcat is Running!";
+        return "Hello, Tom gaaru is Running!";
     }
 }
