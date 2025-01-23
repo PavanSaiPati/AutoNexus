@@ -22,7 +22,9 @@ a one-stop hubspot for Da's or driver. Trying to eliminate the differentiation b
 - **Planned Project Steps**:
     - Decided on maintaining a daily work log in the `README.md`.
     - Discussed the next steps for building the project backend.
-
+- **Configured PostgreSQL Database**:
+    - Installed PostgreSQL on macOS using Homebrew.
+    - Initialized the database cluster and started the PostgreSQL service.
 ---
 
 ### *January 20, 2025*
